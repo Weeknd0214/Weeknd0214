@@ -12,7 +12,7 @@
 - 🧠 Currently working as an **AI Native Engineer** at an **L4 autonomous trucking (trunk logistics)** company based in **Tokyo**
 - ⚙️ My mission: leverage LLMs & AI-native tooling to **boost efficiency across internal business workflows**
 - 🎓 M.Eng. in **Computer Science and Technology**, Yangtze University — graduated **June 2026**
-- 🏭 Former intern at **Faurecia**, **SANY**, and **Motovis (魔视智能)** — deep roots in the automotive & ADAS industry
+- 🏭 Former intern at **Forvia**, **SANY**, and **Motovis** — deep roots in the automotive & ADAS industry
 - 🌱 Passionate about the intersection of **AI Agents × Autonomous Driving × Logistics**
 - 📫 Open to connect on tech, autonomous driving, and AI engineering topics
 
