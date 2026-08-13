@@ -2,7 +2,7 @@
 <h3 align="center">AI Native Engineer @ an L4 Autonomous Trucking Company, Tokyo 🇯🇵🚛</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-Native+workflows+for+L4+trunk+logistics;Turning+autonomous+driving+data+into+efficiency;M.Eng.+in+Computer+Science+%26+Technology;Ex-Faurecia+%7C+Ex-SANY+%7C+Ex-Maxieye" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-Native+workflows+for+L4+trunk+logistics;Turning+autonomous+driving+data+into+efficiency;M.Eng.+in+Computer+Science+%26+Technology;Ex-Faurecia+%7C+Ex-SANY+%7C+Ex-Motovis" alt="Typing SVG" />
 </p>
 
 ---
